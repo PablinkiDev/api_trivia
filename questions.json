@@ -1,134 +1,1202 @@
 [
     {   
         "id": 1,
-        "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "image": "https://www.korosenai.es/wp-content/uploads/2020/01/hydreigon.jpg",
+        "question": "¿Cómo se llama este Pokémon?",
+        "correctAnswer": "Hydreigon",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Hydreigon",
+            "Dragonite",
+            "Dragapult",
+            "Salamance"
         ]
     },
     {   
         "id": 2,
-        "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "image": "https://concepto.de/wp-content/uploads/2018/09/lenguaje-de-programaci%C3%B3n-e1537466894547.jpg",
+        "question": "¿Cual de los siguientes es un lenguaje de programación?",
+        "correctAnswer": "Java",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Baus",
+            "Java",
+            "Visual Studio Code",
+            "Fraps"
         ]
     },
     {   
         "id": 3,
-        "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "image": "https://media.gq.com.mx/photos/5f6ce732bc946e88f6c96320/16:9/w_2560%2Cc_limit/goky%2520ultra%2520instinto.jpg",
+        "question": "¿Cuál es el nombre Saiyayin de Goku?",
+        "correctAnswer": "Kakarotto",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Vegeta",
+            "Bardock",
+            "Kakarotto",
+            "Raditz"
         ]
     },
     {   
         "id": 4,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "¿Qué librería se utiliza principalmente para crear interfaces de usuario en JavaScript?",
+        "correctAnswer": "React",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "React",
+            "MySQL",
+            "MongoDB",
+            "Docker"
         ]
     },
     {   
         "id": 5,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "¿Qué significa HTML?",
+        "correctAnswer": "HyperText Markup Language",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "HyperText Markup Language",
+            "HighText Machine Language",
+            "HyperTool Multi Language",
+            "Home Text Markup Logic"
         ]
     },
     {   
         "id": 6,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "¿Quién es el protagonista de Bleach?",
+        "correctAnswer": "Ichigo Kurosaki",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Izuku Midoriya",
+            "Light Yagami",
+            "Eren Yeager",
+            "Ichigo Kurosaki"
         ]
     },
     {   
         "id": 7,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "En Attack on Titan, ¿quíen es portador del titan fundador?",
+        "correctAnswer": "Eren Yeager",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Levi Ackerman",
+            "Eren Yeager",
+            "Mikasa Ackerman",
+            "Erwin Smith"
         ]
     },
     {   
         "id": 8,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "¿Cuál de estos tipos de datos existen en JavaScript?",
+        "correctAnswer": "Boolean",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Decimal",
+            "Boolean",
+            "Character",
+            "IntegerOnly"
         ]
     },
     {   
         "id": 9,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "¿Cuál es la capital de Japon?",
+        "correctAnswer": "Tokio",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Kioto",
+            "Osaka",
+            "Tokio",
+            "Hiroshima"
         ]
     },
     {   
         "id": 10,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "¿Qué etiqueta se usa para crear un enlace en HTML?",
+        "correctAnswer": "<a>",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "<p>",
+            "<redirect>",
+            "<link>",
+            "<a>"
         ]
     },
     {   
         "id": 11,
         "image": "",
-        "question": "question",
-        "correctAnswer": "",
+        "question": "¿Para qué se utiliza principalmente CSS?",
+        "correctAnswer": "Para dar estilos a una página web",
         "options": [
-            "a",
-            "b",
-            "c",
-            "d"
+            "Para crear bases de datos",
+            "Para dar estilos a una página web",
+            "Para compilar código Java",
+            "Para crear servidores"
+        ]
+    },
+    {   
+        "id": 12,
+        "image": "",
+        "question": "¿Cómo se llaman los hermanos protagonistas de Fullmetal Alchemist?",
+        "correctAnswer": "Edward y Alphonse",
+        "options": [
+            "Naruto y Sasuke",
+            "Edward y Alphonse",
+            "Eren y Armin",
+            "Goku y Vegeta"
+        ]
+    },
+    {   
+        "id": 13,
+        "image": "",
+        "question": "¿Qué material se necesita para crear una mesa de encantamientos en Minecraft?",
+        "correctAnswer": "Obsidiana, diamantes y un libro",
+        "options": [
+            "Madera, piedra y hierro",
+            "Obsidiana, diamantes y un libro",
+            "Oro, cuero y redstone",
+            "Cristal, carbón y lapislázuli"
+        ]
+    },
+    {   
+        "id": 14,
+        "image": "",
+        "question": "¿Qué es Express.js?",
+        "correctAnswer": "Un framework para crear servidores con Node.js",
+        "options": [
+            "Un framework para crear servidores con Node.js",
+            "Un editor de texto",
+            "Una base de datos",
+            "Un sistema operativo"
+        ]
+    },
+    {   
+        "id": 15,
+        "image": "",
+        "question": "¿Qué objeto se usa principalmente para capturar Pokémon?",
+        "correctAnswer": "Poké Ball",
+        "options": [
+            "Poké Ball",
+            "Poción",
+            "Bicicleta",
+            "Caramelo Raro"
+        ]
+    },
+    {   
+        "id": 16,
+        "image": "",
+        "question": "¿Qué estructura de datos en Python no permite elementos duplicados?",
+        "correctAnswer": "set",
+        "options": [
+            "list",
+            "tuple",
+            "dict",
+            "set"
+        ]
+    },
+    {   
+        "id": 17,
+        "image": "",
+        "question": "¿Qué comando de Git se usa para crear una nueva rama y moverse a ella al mismo tiempo?",
+        "correctAnswer": "git checkout -b",
+        "options": [
+            "git branch -d",
+            "git merge -b",
+            "git checkout -b",
+            "git push origin"
+        ]
+    },
+    {   
+        "id": 18,
+        "image": "",
+        "question": "En Terraria, ¿qué jefe se debe derrotar para pasar al modo difícil?",
+        "correctAnswer": "Muro de Carne",
+        "options": [
+            "Ojo de Cthulhu",
+            "Muro de Carne",
+            "Plantera",
+            "Rey Slime"
+        ]
+    },
+    {   
+        "id": 19,
+        "image": "",
+        "question": "En Minecraft, ¿qué dimensión se visita para derrotar al Dragón?",
+        "correctAnswer": "El End",
+        "options": [
+            "El Nether",
+            "El End",
+            "El Overworld",
+            "La Deep Dark"
+        ]
+    },
+    {   
+        "id": 20,
+        "image": "",
+        "question": "En Red Dead Redemption 2, ¿a qué banda pertenece Arthur Morgan?",
+        "correctAnswer": "Banda de Van der Linde",
+        "options": [
+            "Banda de O'Driscoll",
+            "Banda de Van der Linde",
+            "Banda de Lemoyne",
+            "Banda de Blackwater"
+        ]
+    },
+    {   
+        "id": 21,
+        "image": "",
+        "question": "En Resident Evil 4, ¿a quién debe rescatar Leon S. Kennedy?",
+        "correctAnswer": "Ashley Graham",
+        "options": [
+            "Claire Redfield",
+            "Ada Wong",
+            "Ashley Graham",
+            "Jill Valentine"
+        ]
+    },
+    {   
+        "id": 22,
+        "image": "",
+        "question": "¿En qué año ganó Argentina su tercer Mundial de fútbol?",
+        "correctAnswer": "2022",
+        "options": [
+            "2014",
+            "1986",
+            "2022",
+            "1990"
+        ]
+    },
+    {   
+        "id": 23,
+        "image": "",
+        "question": "¿Cómo se llama la sede del Poder Ejecutivo Nacional de Argentina?",
+        "correctAnswer": "Casa Rosada",
+        "options": [
+            "Cabildo",
+            "Casa Rosada",
+            "Congreso Nacional",
+            "Palacio Barolo"
+        ]
+    },
+    {   
+        "id": 24,
+        "image": "",
+        "question": "¿Cuál de estas infusiones es tradicional en Argentina?",
+        "correctAnswer": "Mate",
+        "options": [
+            "Té matcha",
+            "Mate",
+            "Café turco",
+            "Chicha"
+        ]
+    },
+    {   
+        "id": 25,
+        "image": "",
+        "question": "¿Qué comida es una de las más representativas de la cultura argentina?",
+        "correctAnswer": "Asado",
+        "options": [
+            "Sushi",
+            "Asado",
+            "Paella",
+            "Tacos"
+        ]
+    },
+    {   
+        "id": 26,
+        "image": "",
+        "question": "¿Cuál es la montaña más alta de Argentina?",
+        "correctAnswer": "Aconcagua",
+        "options": [
+            "Cerro Catedral",
+            "Aconcagua",
+            "Fitz Roy",
+            "Lanín"
+        ]
+    },
+    {   
+        "id": 27,
+        "image": "",
+        "question": "¿En qué Mundial Diego Maradona hizo el famoso gol conocido como 'La Mano de Dios'?",
+        "correctAnswer": "México 1986",
+        "options": [
+            "España 1982",
+            "México 1986",
+            "Italia 1990",
+            "Estados Unidos 1994"
+        ]
+    },
+    {   
+        "id": 28,
+        "image": "",
+        "question": "En Pokémon, ¿cuál de estos tipos es súper efectivo contra el tipo Agua?",
+        "correctAnswer": "Eléctrico",
+        "options": [
+            "Fuego",
+            "Eléctrico",
+            "Roca",
+            "Hielo"
+        ]
+    },
+    {   
+        "id": 29,
+        "image": "",
+        "question": "En One Piece, ¿qué fruta comió Luffy?",
+        "correctAnswer": "Gomu Gomu no Mi",
+        "options": [
+            "Mera Mera no Mi",
+            "Gomu Gomu no Mi",
+            "Hito Hito no Mi",
+            "Bara Bara no Mi"
+        ]
+    },
+    {   
+        "id": 30,
+        "image": "",
+        "question": "¿Qué institución funcionaba en el Cabildo durante la época colonial?",
+        "correctAnswer": "Gobierno municipal",
+        "options": [
+            "Universidad",
+            "Gobierno municipal",
+            "Teatro nacional",
+            "Banco central"
+        ]
+    },
+    {   
+        "id": 31,
+        "image": "",
+        "question": "¿En qué región argentina se encuentra el Glaciar Perito Moreno?",
+        "correctAnswer": "Patagonia",
+        "options": [
+            "Cuyo",
+            "Patagonia",
+            "Litoral",
+            "Pampa húmeda"
+        ]
+    },
+    {   
+        "id": 32,
+        "image": "",
+        "question": "En Elden Ring, ¿cómo se llama el caballo espectral que acompaña al jugador?",
+        "correctAnswer": "Torrentera",
+        "options": [
+            "Agro",
+            "Torrentera",
+            "Rocinante",
+            "Sombra"
+        ]
+    },
+    {   
+        "id": 33,
+        "image": "",
+        "question": "En Fortnite Battle Royale, ¿cuál es el objetivo principal de una partida?",
+        "correctAnswer": "Ser el último jugador o equipo en pie",
+        "options": [
+            "Construir la base más grande",
+            "Ser el último jugador o equipo en pie",
+            "Capturar una bandera",
+            "Derrotar a un jefe final"
+        ]
+    },
+    {   
+        "id": 34,
+        "image": "",
+        "question": "En Counter-Strike, ¿qué arma es conocida por matar de un disparo a la cabeza incluso con casco?",
+        "correctAnswer": "AK-47",
+        "options": [
+            "MP5",
+            "AK-47",
+            "P90",
+            "Glock-18"
+        ]
+    },
+    {   
+        "id": 35,
+        "image": "",
+        "question": "En Resident Evil 4, ¿en qué país transcurre gran parte de la historia?",
+        "correctAnswer": "España",
+        "options": [
+            "Estados Unidos",
+            "España",
+            "Francia",
+            "Italia"
+        ]
+    },
+    {   
+        "id": 36,
+        "image": "",
+        "question": "En Red Dead Redemption 2, ¿qué enfermedad contrae Arthur Morgan?",
+        "correctAnswer": "Tuberculosis",
+        "options": [
+            "Cólera",
+            "Tuberculosis",
+            "Malaria",
+            "Neumonía"
+        ]
+    },
+    {   
+        "id": 37,
+        "image": "",
+        "question": "En The Legend of Zelda, ¿cuál es la espada legendaria asociada a Link?",
+        "correctAnswer": "Espada Maestra",
+        "options": [
+            "Espada Maestra",
+            "Espada Buster",
+            "Espada del Caos",
+            "Espada de Plata"
+        ]
+    },
+    {   
+        "id": 38,
+        "image": "",
+        "question": "¿En qué país está ambientado Forza Horizon 5?",
+        "correctAnswer": "México",
+        "options": [
+            "Italia",
+            "México",
+            "Japón",
+            "Australia"
+        ]
+    },
+    {   
+        "id": 39,
+        "image": "",
+        "question": "En Pokémon Esmeralda, ¿cuál es el Pokémon legendario principal de la portada?",
+        "correctAnswer": "Rayquaza",
+        "options": [
+            "Kyogre",
+            "Groudon",
+            "Rayquaza",
+            "Lugia"
+        ]
+    },
+    {   
+        "id": 40,
+        "image": "",
+        "question": "En The Witcher 3, ¿cómo se llama el protagonista?",
+        "correctAnswer": "Geralt de Rivia",
+        "options": [
+            "Geralt de Rivia",
+            "Vesemir",
+            "Dandelion",
+            "Emhyr"
+        ]
+    },
+    {   
+        "id": 41,
+        "image": "",
+        "question": "En Among Us, ¿qué rol intenta eliminar a los tripulantes sin ser descubierto?",
+        "correctAnswer": "Impostor",
+        "options": [
+            "Ingeniero",
+            "Tripulante",
+            "Impostor",
+            "Fantasma"
+        ]
+    },
+    {   
+        "id": 42,
+        "image": "",
+        "question": "¿Qué significa ADN?",
+        "correctAnswer": "Ácido desoxirribonucleico",
+        "options": [
+            "Ácido desoxirribonucleico",
+            "Ácido ribonucleico",
+            "Adenina nuclear directa",
+            "Antígeno de núcleo"
+        ]
+    },
+    {   
+        "id": 43,
+        "image": "",
+        "question": "¿Cuál es el símbolo químico del sodio?",
+        "correctAnswer": "Na",
+        "options": [
+            "So",
+            "Sd",
+            "Na",
+            "S"
+        ]
+    },
+    {   
+        "id": 44,
+        "image": "",
+        "question": "¿Qué células transmiten impulsos nerviosos en el sistema nervioso?",
+        "correctAnswer": "Neuronas",
+        "options": [
+            "Glóbulos rojos",
+            "Neuronas",
+            "Plaquetas",
+            "Osteocitos"
+        ]
+    },
+    {   
+        "id": 45,
+        "image": "",
+        "question": "¿Qué proceso realizan las plantas para producir su propio alimento usando luz solar?",
+        "correctAnswer": "Fotosíntesis",
+        "options": [
+            "Respiración celular",
+            "Fotosíntesis",
+            "Fermentación",
+            "Digestión"
+        ]
+    },
+    {   
+        "id": 46,
+        "image": "",
+        "question": "¿Por qué la Luna no tiene luz propia?",
+        "correctAnswer": "Porque refleja la luz del Sol",
+        "options": [
+            "Porque está apagada",
+            "Porque refleja la luz del Sol",
+            "Porque es un planeta",
+            "Porque está hecha de hielo"
+        ]
+    },
+    {   
+        "id": 47,
+        "image": "",
+        "question": "¿A qué temperatura hierve el agua al nivel del mar?",
+        "correctAnswer": "100 °C",
+        "options": [
+            "0 °C",
+            "50 °C",
+            "100 °C",
+            "200 °C"
+        ]
+    },
+    {   
+        "id": 48,
+        "image": "",
+        "question": "¿Qué teoría científica asocia principalmente a Albert Einstein?",
+        "correctAnswer": "Teoría de la relatividad",
+        "options": [
+            "Teoría celular",
+            "Teoría de la relatividad",
+            "Teoría de la evolución",
+            "Teoría del flogisto"
+        ]
+    },
+    {   
+        "id": 49,
+        "image": "",
+        "question": "¿Qué científico es famoso por la teoría de la evolución por selección natural?",
+        "correctAnswer": "Charles Darwin",
+        "options": [
+            "Gregor Mendel",
+            "Charles Darwin",
+            "Louis Pasteur",
+            "Nikola Tesla"
+        ]
+    },
+    {   
+        "id": 50,
+        "image": "",
+        "question": "¿Qué partícula subatómica tiene carga negativa?",
+        "correctAnswer": "Electrón",
+        "options": [
+            "Protón",
+            "Neutrón",
+            "Electrón",
+            "Núcleo"
+        ]
+    },
+    {   
+        "id": 51,
+        "image": "",
+        "question": "¿Qué empresa creó Flutter?",
+        "correctAnswer": "Google",
+        "options": [
+            "Microsoft",
+            "Google",
+            "Meta",
+            "Apple"
+        ]
+    },
+    {   
+        "id": 52,
+        "image": "",
+        "question": "¿Cuál es la capital de Canadá?",
+        "correctAnswer": "Ottawa",
+        "options": [
+            "Toronto",
+            "Vancouver",
+            "Ottawa",
+            "Montreal"
+        ]
+    },
+    {   
+        "id": 53,
+        "image": "",
+        "question": "¿Cuál es el Pokémon número 25 de la Pokédex nacional?",
+        "correctAnswer": "Pikachu",
+        "options": [
+            "Charmander",
+            "Pikachu",
+            "Bulbasaur",
+            "Eevee"
+        ]
+    },
+    {   
+        "id": 54,
+        "image": "",
+        "question": "¿Qué número suele usar Cristiano Ronaldo en su camiseta?",
+        "correctAnswer": "7",
+        "options": [
+            "9",
+            "10",
+            "7",
+            "11"
+        ]
+    },
+    {   
+        "id": 55,
+        "image": "",
+        "question": "¿Qué número usa históricamente Lionel Messi en la Selección Argentina?",
+        "correctAnswer": "10",
+        "options": [
+            "7",
+            "9",
+            "10",
+            "11"
+        ]
+    },
+    {   
+        "id": 56,
+        "image": "",
+        "question": "¿En qué ciudad argentina se encuentra el Teatro Colón?",
+        "correctAnswer": "Buenos Aires",
+        "options": [
+            "Córdoba",
+            "Rosario",
+            "Buenos Aires",
+            "Mendoza"
+        ]
+    },
+    {   
+        "id": 57,
+        "image": "",
+        "question": "En My Hero Academia, ¿cuál es el don original de Izuku Midoriya al inicio de la historia?",
+        "correctAnswer": "No tenía don",
+        "options": [
+            "Super fuerza",
+            "No tenía don",
+            "Control del fuego",
+            "Teletransportación"
+        ]
+    },
+    {   
+        "id": 58,
+        "image": "",
+        "question": "¿Cómo se llama un volcán que no ha mostrado actividad durante mucho tiempo pero podría volver a activarse?",
+        "correctAnswer": "Dormido",
+        "options": [
+            "Extinto",
+            "Dormido",
+            "Marino",
+            "Artificial"
+        ]
+    },
+    {   
+        "id": 59,
+        "image": "",
+        "question": "En Dark Souls, ¿cómo se llaman las monedas principales que sirven como experiencia y dinero?",
+        "correctAnswer": "Almas",
+        "options": [
+            "Runas",
+            "Almas",
+            "Gemas",
+            "Ecos"
+        ]
+    },
+    {   
+        "id": 60,
+        "image": "",
+        "question": "¿Cuál es la famosa ecuación asociada a Einstein?",
+        "correctAnswer": "E = mc²",
+        "options": [
+            "F = ma",
+            "E = mc²",
+            "a² + b² = c²",
+            "PV = nRT"
+        ]
+    },
+    {   
+        "id": 61,
+        "image": "",
+        "question": "En The Last of Us, ¿qué tipo de hongo causa la infección?",
+        "correctAnswer": "Cordyceps",
+        "options": [
+            "Penicillium",
+            "Cordyceps",
+            "Aspergillus",
+            "Amanita"
+        ]
+    },
+    {   
+        "id": 62,
+        "image": "",
+        "question": "En Jujutsu Kaisen, ¿qué objeto maldito consume Yuji Itadori?",
+        "correctAnswer": "Un dedo de Sukuna",
+        "options": [
+            "Una máscara",
+            "Un dedo de Sukuna",
+            "Una espada maldita",
+            "Un ojo sellado"
+        ]
+    },
+    {   
+        "id": 63,
+        "image": "",
+        "question": "En Hades, ¿quién es el padre de Zagreo?",
+        "correctAnswer": "Hades",
+        "options": [
+            "Zeus",
+            "Ares",
+            "Hades",
+            "Poseidón"
+        ]
+    },
+    {   
+        "id": 64,
+        "image": "",
+        "question": "En Attack on Titan, ¿cómo se llama el comandante del Cuerpo de Exploración antes de Hange?",
+        "correctAnswer": "Erwin Smith",
+        "options": [
+            "Levi Ackerman",
+            "Erwin Smith",
+            "Dot Pixis",
+            "Kenny Ackerman"
+        ]
+    },
+    {   
+        "id": 65,
+        "image": "",
+        "question": "¿Quién pintó la Mona Lisa?",
+        "correctAnswer": "Leonardo da Vinci",
+        "options": [
+            "Pablo Picasso",
+            "Leonardo da Vinci",
+            "Vincent van Gogh",
+            "Miguel Ángel"
+        ]
+    },
+    {   
+        "id": 66,
+        "image": "",
+        "question": "En Dragon Ball, ¿cuántas esferas del dragón se necesitan para invocar a Shenlong?",
+        "correctAnswer": "7",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "9"
+        ]
+    },
+    {   
+        "id": 67,
+        "image": "",
+        "question": "¿Qué planeta es famoso por su Gran Mancha Roja?",
+        "correctAnswer": "Júpiter",
+        "options": [
+            "Marte",
+            "Júpiter",
+            "Saturno",
+            "Neptuno"
+        ]
+    },
+    {   
+        "id": 68,
+        "image": "",
+        "question": "En Among Us, ¿qué hacen los tripulantes para ganar además de descubrir al impostor?",
+        "correctAnswer": "Completar tareas",
+        "options": [
+            "Recolectar monedas",
+            "Completar tareas",
+            "Construir una base",
+            "Derrotar un jefe"
+        ]
+    },
+    {   
+        "id": 69,
+        "image": "",
+        "question": "¿Qué corte o preparación es típico de un asado argentino?",
+        "correctAnswer": "Choripán",
+        "options": [
+            "Sushi",
+            "Choripán",
+            "Ramen",
+            "Paella"
+        ]
+    },
+    {   
+        "id": 70,
+        "image": "",
+        "question": "En League of Legends, ¿cómo se llama el mapa clásico de 5 contra 5?",
+        "correctAnswer": "La Grieta del Invocador",
+        "options": [
+            "La Grieta del Invocador",
+            "El Abismo de los Lamentos",
+            "Dust II",
+            "King's Canyon"
+        ]
+    },
+    {   
+        "id": 71,
+        "image": "",
+        "question": "¿Qué instrumento está muy asociado al tango argentino?",
+        "correctAnswer": "Bandoneón",
+        "options": [
+            "Gaita",
+            "Bandoneón",
+            "Arpa",
+            "Sitar"
+        ]
+    },
+    {   
+        "id": 72,
+        "image": "",
+        "question": "En Red Dead Redemption 2, ¿cómo se llama el líder de la banda?",
+        "correctAnswer": "Dutch van der Linde",
+        "options": [
+            "Arthur Morgan",
+            "Dutch van der Linde",
+            "John Marston",
+            "Micah Bell"
+        ]
+    },
+    {   
+        "id": 73,
+        "image": "",
+        "question": "En Sekiro, ¿cómo se llama el protagonista?",
+        "correctAnswer": "Lobo",
+        "options": [
+            "Samurái Azul",
+            "Lobo",
+            "Genichiro",
+            "Isshin"
+        ]
+    },
+    {   
+        "id": 74,
+        "image": "",
+        "question": "En Fullmetal Alchemist, ¿qué ley de la alquimia dice que para obtener algo se debe entregar algo de igual valor?",
+        "correctAnswer": "Intercambio equivalente",
+        "options": [
+            "Ley de atracción",
+            "Intercambio equivalente",
+            "Transmutación perfecta",
+            "Contrato alquímico"
+        ]
+    },
+    {   
+        "id": 75,
+        "image": "",
+        "question": "En Stardew Valley, ¿qué compañía representa la vida corporativa que el protagonista deja atrás?",
+        "correctAnswer": "Joja",
+        "options": [
+            "Shinra",
+            "Joja",
+            "Umbrella",
+            "Aperture"
+        ]
+    },
+    {   
+        "id": 76,
+        "image": "",
+        "question": "¿Cuál es la capital de Corea del Sur?",
+        "correctAnswer": "Seúl",
+        "options": [
+            "Busan",
+            "Tokio",
+            "Seúl",
+            "Pyongyang"
+        ]
+    },
+    {   
+        "id": 77,
+        "image": "",
+        "question": "En The Witcher 3, ¿cómo se llama la hija adoptiva de Geralt?",
+        "correctAnswer": "Ciri",
+        "options": [
+            "Yennefer",
+            "Triss",
+            "Ciri",
+            "Keira"
+        ]
+    },
+    {   
+        "id": 78,
+        "image": "",
+        "question": "¿Qué pigmento le da el color verde a muchas plantas?",
+        "correctAnswer": "Clorofila",
+        "options": [
+            "Melanina",
+            "Clorofila",
+            "Hemoglobina",
+            "Queratina"
+        ]
+    },
+    {   
+        "id": 79,
+        "image": "",
+        "question": "En League of Legends, ¿cuál es el objetivo principal de destruir torres?",
+        "correctAnswer": "Destruir el nexo de la base enemiga",
+        "options": [
+            "Ganar oro automáticamente",
+            "Destruir el nexo de la base enemiga",
+            "Subir de nivel al instante",
+            "Invocar al Barón Nashor"
+        ]
+    },
+    {   
+        "id": 80,
+        "image": "",
+        "question": "En League of Legends, ¿qué monstruo épico otorga un poderoso buff al equipo que lo derrota?",
+        "correctAnswer": "Barón Nashor",
+        "options": [
+            "Gromp",
+            "Barón Nashor",
+            "Krug ancestral",
+            "Lobo sombrío"
+        ]
+    },
+    {   
+        "id": 81,
+        "image": "",
+        "question": "En League of Legends, ¿qué significa hacer un gank?",
+        "correctAnswer": "Ir a una línea para intentar ayudar a eliminar o presionar al enemigo",
+        "options": [
+            "Comprar un objeto legendario",
+            "Ir a una línea para intentar ayudar a eliminar o presionar al enemigo",
+            "Destruir el nexo propio",
+            "Cambiar la cámara de lugar"
+        ]
+    },
+    {   
+        "id": 82,
+        "image": "",
+        "question": "En League of Legends, ¿qué campeón es conocido por usar una linterna para salvar aliados?",
+        "correctAnswer": "Thresh",
+        "options": [
+            "Pyke",
+            "Thresh",
+            "Blitzcrank",
+            "Nautilus"
+        ]
+    },
+    {   
+        "id": 83,
+        "image": "",
+        "question": "En League of Legends, ¿qué significa hacer 'last hit'?",
+        "correctAnswer": "Dar el último golpe a un súbdito para conseguir oro",
+        "options": [
+            "Atacar primero al Barón",
+            "Dar el último golpe a un súbdito para conseguir oro",
+            "Usar la definitiva sin acertar",
+            "Morir en una pelea grupal"
+        ]
+    },
+    {   
+        "id": 84,
+        "image": "",
+        "question": "En League of Legends, ¿qué significa 'CC'?",
+        "correctAnswer": "Control de masas",
+        "options": [
+            "Carga crítica",
+            "Control de masas",
+            "Campeón central",
+            "Combo cancelado"
+        ]
+    },
+    {   
+        "id": 85,
+        "image": "",
+        "question": "En Rocket League, ¿qué recurso permite acelerar el auto y realizar jugadas aéreas?",
+        "correctAnswer": "Boost",
+        "options": [
+            "Maná",
+            "Boost",
+            "Nitro azul",
+            "Energía solar"
+        ]
+    },
+    {   
+        "id": 86,
+        "image": "",
+        "question": "En Rocket League, ¿cómo se llama comúnmente una jugada donde el jugador golpea la pelota en el aire?",
+        "correctAnswer": "Aerial",
+        "options": [
+            "Parry",
+            "Aerial",
+            "Gank",
+            "Headshot"
+        ]
+    },
+    {   
+        "id": 87,
+        "image": "",
+        "question": "En Rocket League, ¿qué se entiende por 'kickoff'?",
+        "correctAnswer": "La jugada inicial después de comenzar o reiniciar el partido",
+        "options": [
+            "Un penal",
+            "La jugada inicial después de comenzar o reiniciar el partido",
+            "Una celebración",
+            "Un tipo de auto exclusivo"
+        ]
+    },
+    {   
+        "id": 88,
+        "image": "",
+        "question": "En Hades, ¿qué dioses otorgan bendiciones a Zagreo durante sus intentos de escape?",
+        "correctAnswer": "Dioses olímpicos",
+        "options": [
+            "Titanes",
+            "Dioses olímpicos",
+            "Semidioses nórdicos",
+            "Espectros del Tártaro"
+        ]
+    },
+    {   
+        "id": 89,
+        "image": "",
+        "question": "En Minecraft, ¿qué criatura deja caer pólvora al morir?",
+        "correctAnswer": "Creeper",
+        "options": [
+            "Creeper",
+            "Enderman",
+            "Araña",
+            "Vaca"
+        ]
+    },
+    {   
+        "id": 90,
+        "image": "",
+        "question": "En Terraria, ¿qué jefe mecánico es una versión más difícil del Ojo de Cthulhu?",
+        "correctAnswer": "Los Gemelos",
+        "options": [
+            "Destructor",
+            "Los Gemelos",
+            "Skeletron Prime",
+            "Golem"
+        ]
+    },
+    {   
+        "id": 91,
+        "image": "",
+        "question": "¿Qué significa que un algoritmo sea eficiente?",
+        "correctAnswer": "Que resuelve un problema usando bien el tiempo y los recursos",
+        "options": [
+            "Que siempre tiene muchas líneas de código",
+            "Que resuelve un problema usando bien el tiempo y los recursos",
+            "Que solo funciona en una computadora",
+            "Que usa colores llamativos"
+        ]
+    },
+    {   
+        "id": 92,
+        "image": "",
+        "question": "¿Qué es una función en programación?",
+        "correctAnswer": "Un bloque de código reutilizable que realiza una tarea",
+        "options": [
+            "Un archivo de imagen",
+            "Un bloque de código reutilizable que realiza una tarea",
+            "Un error de memoria",
+            "Un cable de red"
+        ]
+    },
+    {   
+        "id": 93,
+        "image": "",
+        "question": "En programación, ¿para qué sirve el control de versiones?",
+        "correctAnswer": "Para registrar cambios en el código y poder volver a versiones anteriores",
+        "options": [
+            "Para subir el volumen de la PC",
+            "Para registrar cambios en el código y poder volver a versiones anteriores",
+            "Para mejorar los gráficos de un videojuego",
+            "Para borrar automáticamente todos los errores"
+        ]
+    },
+    {   
+        "id": 94,
+        "image": "",
+        "question": "¿Qué es la recursividad?",
+        "correctAnswer": "Cuando una función se llama a sí misma para resolver un problema",
+        "options": [
+            "Cuando una variable cambia de color",
+            "Cuando una función se llama a sí misma para resolver un problema",
+            "Cuando se borra una carpeta",
+            "Cuando una página tarda en cargar"
+        ]
+    },
+    {   
+        "id": 95,
+        "image": "",
+        "question": "¿Qué significa que un dato sea persistente?",
+        "correctAnswer": "Que se mantiene guardado aunque el programa termine",
+        "options": [
+            "Que aparece solo por un segundo",
+            "Que se mantiene guardado aunque el programa termine",
+            "Que no puede ser leído",
+            "Que siempre está duplicado"
+        ]
+    },
+    {   
+        "id": 96,
+        "image": "",
+        "question": "¿Qué es una API?",
+        "correctAnswer": "Un conjunto de reglas que permite que programas se comuniquen entre sí",
+        "options": [
+            "Un tipo de monitor",
+            "Un conjunto de reglas que permite que programas se comuniquen entre sí",
+            "Una marca de teclado",
+            "Un archivo de música"
+        ]
+    },
+    {   
+        "id": 97,
+        "image": "",
+        "question": "¿Qué tratado internacional estableció formalmente el sistema de Estados soberanos modernos tras la Guerra de los Treinta Años?",
+        "correctAnswer": "Paz de Westfalia",
+        "options": [
+        "Tratado de Versalles",
+        "Paz de Westfalia",
+        "Tratado de Tordesillas",
+        "Congreso de Viena"
+        ]
+    },
+    {   
+        "id": 98,
+        "image": "",
+        "question": "¿Cuál es el único país del mundo que limita con el mar Caspio y el golfo Pérsico?",
+        "correctAnswer": "Irán",
+        "options": [
+            "Irak",
+            "Irán",
+            "Azerbaiyán",
+            "Turkmenistán"
+        ]
+    },
+    {   
+        "id": 99,
+        "image": "",
+        "question": "¿Qué principio físico establece que es imposible conocer simultáneamente con precisión absoluta la posición y el momento de una partícula?",
+        "correctAnswer": "Principio de incertidumbre de Heisenberg",
+        "options": [
+            "Principio de exclusión de Pauli",
+            "Principio de incertidumbre de Heisenberg",
+            "Ley de conservación de la masa",
+            "Teorema de Noether"
+        ]
+    },
+    {   
+        "id": 100,
+        "image": "",
+        "question": "¿Qué elemento químico tiene el número atómico 74?",
+        "correctAnswer": "Wolframio",
+        "options": [
+            "Tantalio",
+            "Wolframio",
+            "Renio",
+            "Osmio"
         ]
     }
 ]
