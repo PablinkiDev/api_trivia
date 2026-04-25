@@ -1,9 +1,13 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const questions = require('./questions.json');
 
 const PORT = process.env.PORT || 3000;
 
+app.use(cors({
+  methods: ['GET']
+}));
 
 app.get('/', (req, res) => {
     res.status(200).send('API Trivia lista para usarse')
