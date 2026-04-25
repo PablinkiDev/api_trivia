@@ -10,7 +10,9 @@ app.use(cors({
 }));
 
 app.get('/', (req, res) => {
-    res.status(200).send('API Trivia lista para usarse')
+    res.status(200).json({
+        message: 'API Trivia lista para usarse'
+    });
 })
 
 app.get('/question', (req, res) => {
