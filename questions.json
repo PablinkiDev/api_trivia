@@ -1,26 +1,25 @@
 [
     {   
         "id": 1,
-        "image": "https://www.korosenai.es/wp-content/uploads/2020/01/hydreigon.jpg",
-        "question": "¿Cómo se llama este Pokémon?",
-        "correctAnswer": "Hydreigon",
+        "question": "¿Qué cantante es conocida como 'La Reina del Pop'?",
+        "correctAnswer": "Madonna",
         "options": [
-            "Hydreigon",
-            "Dragonite",
-            "Dragapult",
-            "Salamance"
+        "Shakira",
+        "Madonna",
+        "Lady Gaga",
+        "Adele"
         ]
     },
     {   
         "id": 2,
         "image": "https://concepto.de/wp-content/uploads/2018/09/lenguaje-de-programaci%C3%B3n-e1537466894547.jpg",
-        "question": "¿Cual de los siguientes es un lenguaje de programación?",
-        "correctAnswer": "Java",
+        "question": "¿Qué banda británica interpretó la canción 'Bohemian Rhapsody'?",
+        "correctAnswer": "Queen",
         "options": [
-            "Baus",
-            "Java",
-            "Visual Studio Code",
-            "Fraps"
+            "The Beatles",
+            "Queen",
+            "Pink Floyd",
+            "The Rolling Stones"
         ]
     },
     {   
@@ -38,13 +37,13 @@
     {   
         "id": 4,
         "image": "",
-        "question": "¿Qué librería se utiliza principalmente para crear interfaces de usuario en JavaScript?",
-        "correctAnswer": "React",
+        "question": "¿Quién pintó 'La noche estrellada'?",
+        "correctAnswer": "Vincent van Gogh",
         "options": [
-            "React",
-            "MySQL",
-            "MongoDB",
-            "Docker"
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Salvador Dalí"
         ]
     },
     {   
@@ -87,12 +86,12 @@
         "id": 8,
         "image": "",
         "question": "¿Cuál de estos tipos de datos existen en JavaScript?",
-        "correctAnswer": "Boolean",
+        "correctAnswer": "Titanic",
         "options": [
-            "Decimal",
-            "Boolean",
-            "Character",
-            "IntegerOnly"
+            "Titanic",
+            "Diario de una pasión",
+            "Moulin Rouge",
+            "El gran Gatsby"
         ]
     },
     {   
@@ -122,49 +121,49 @@
     {   
         "id": 11,
         "image": "",
-        "question": "¿Para qué se utiliza principalmente CSS?",
-        "correctAnswer": "Para dar estilos a una página web",
+        "question": "¿Qué artista argentino es conocido por canciones como 'De música ligera' y 'Crimen'?",
+        "correctAnswer": "Gustavo Cerati",
         "options": [
-            "Para crear bases de datos",
-            "Para dar estilos a una página web",
-            "Para compilar código Java",
-            "Para crear servidores"
+            "Charly García",
+            "Gustavo Cerati",
+            "Fito Páez",
+            "Andrés Calamaro"
         ]
     },
     {   
         "id": 12,
         "image": "",
-        "question": "¿Cómo se llaman los hermanos protagonistas de Fullmetal Alchemist?",
-        "correctAnswer": "Edward y Alphonse",
+        "question": "¿Quién escribió la obra 'Romeo y Julieta'?",
+        "correctAnswer": "William Shakespeare",
         "options": [
-            "Naruto y Sasuke",
-            "Edward y Alphonse",
-            "Eren y Armin",
-            "Goku y Vegeta"
+            "Miguel de Cervantes",
+            "William Shakespeare",
+            "Gabriel García Márquez",
+            "Jorge Luis Borges"
         ]
     },
     {   
         "id": 13,
         "image": "",
-        "question": "¿Qué material se necesita para crear una mesa de encantamientos en Minecraft?",
-        "correctAnswer": "Obsidiana, diamantes y un libro",
+        "question": "¿Qué película animada tiene como protagonista a Simba?",
+        "correctAnswer": "El Rey León",
         "options": [
-            "Madera, piedra y hierro",
-            "Obsidiana, diamantes y un libro",
-            "Oro, cuero y redstone",
-            "Cristal, carbón y lapislázuli"
+            "Tarzán",
+            "El Rey León",
+            "Madagascar",
+            "Bambi"
         ]
     },
     {   
         "id": 14,
         "image": "",
-        "question": "¿Qué es Express.js?",
-        "correctAnswer": "Un framework para crear servidores con Node.js",
+        "question": "¿Qué famosa pintura muestra a una mujer con una sonrisa enigmática?",
+        "correctAnswer": "Mona Lisa",
         "options": [
-            "Un framework para crear servidores con Node.js",
-            "Un editor de texto",
-            "Una base de datos",
-            "Un sistema operativo"
+            "Mona Lisa",
+            "Las Meninas",
+            "El grito",
+            "La persistencia de la memoria"
         ]
     },
     {   
@@ -182,73 +181,73 @@
     {   
         "id": 16,
         "image": "",
-        "question": "¿Qué estructura de datos en Python no permite elementos duplicados?",
-        "correctAnswer": "set",
+        "question": "¿Qué serie de televisión tiene personajes llamados Ross, Rachel, Monica, Chandler, Joey y Phoebe?",
+        "correctAnswer": "Friends",
         "options": [
-            "list",
-            "tuple",
-            "dict",
-            "set"
+            "Friends",
+            "How I Met Your Mother",
+            "The Big Bang Theory",
+            "Modern Family"
         ]
     },
     {   
         "id": 17,
         "image": "",
-        "question": "¿Qué comando de Git se usa para crear una nueva rama y moverse a ella al mismo tiempo?",
-        "correctAnswer": "git checkout -b",
+        "question": "¿Qué cantante colombiana interpreta 'Hips Don't Lie'?",
+        "correctAnswer": "Shakira",
         "options": [
-            "git branch -d",
-            "git merge -b",
-            "git checkout -b",
-            "git push origin"
+            "Karol G",
+            "Shakira",
+            "Rosalía",
+            "Thalía"
         ]
     },
     {   
         "id": 18,
         "image": "",
-        "question": "En Terraria, ¿qué jefe se debe derrotar para pasar al modo difícil?",
-        "correctAnswer": "Muro de Carne",
+        "question": "¿Qué ciudad italiana es famosa por sus canales y góndolas?",
+        "correctAnswer": "Venecia",
         "options": [
-            "Ojo de Cthulhu",
-            "Muro de Carne",
-            "Plantera",
-            "Rey Slime"
+            "Roma",
+            "Venecia",
+            "Milán",
+            "Florencia"
         ]
     },
     {   
         "id": 19,
         "image": "",
-        "question": "En Minecraft, ¿qué dimensión se visita para derrotar al Dragón?",
-        "correctAnswer": "El End",
+        "question": "¿Qué país es conocido como la cuna del flamenco?",
+        "correctAnswer": "España",
         "options": [
-            "El Nether",
-            "El End",
-            "El Overworld",
-            "La Deep Dark"
+            "México",
+            "España",
+            "Italia",
+            "Brasil"
         ]
     },
     {   
         "id": 20,
         "image": "",
-        "question": "En Red Dead Redemption 2, ¿a qué banda pertenece Arthur Morgan?",
-        "correctAnswer": "Banda de Van der Linde",
+        "question": "¿Qué género musical popularizó Bob Marley?",
+        "correctAnswer": "Reggae",
         "options": [
-            "Banda de O'Driscoll",
-            "Banda de Van der Linde",
-            "Banda de Lemoyne",
-            "Banda de Blackwater"
+        "Reggae",
+        "Salsa",
+        "Rock",
+        "Pop"
         ]
     },
     {   
         "id": 21,
         "image": "",
-        "question": "En Resident Evil 4, ¿a quién debe rescatar Leon S. Kennedy?",
-        "correctAnswer": "Ashley Graham",
+        "question": "¿Qué cantante argentina interpreta canciones como 'La triple T' y 'Miénteme'?",
+        "correctAnswer": "Tini",
         "options": [
-            "Claire Redfield",
-            "Ada Wong",
-            "Ashley Graham",
-            "Jill Valentine"
+            "Tini",
+            "Lali",
+            "Nicki Nicole",
+            "Emilia"
         ]
     },
     {   
@@ -326,25 +325,25 @@
     {   
         "id": 28,
         "image": "",
-        "question": "En Pokémon, ¿cuál de estos tipos es súper efectivo contra el tipo Agua?",
-        "correctAnswer": "Eléctrico",
+        "question": "¿Qué premio se entrega principalmente a la música?",
+        "correctAnswer": "Premio Grammy",
         "options": [
-            "Fuego",
-            "Eléctrico",
-            "Roca",
-            "Hielo"
+            "Premio Grammy",
+            "Premio Oscar",
+            "Premio Emmy",
+            "Premio Cervantes"
         ]
     },
     {   
         "id": 29,
         "image": "",
-        "question": "En One Piece, ¿qué fruta comió Luffy?",
-        "correctAnswer": "Gomu Gomu no Mi",
+        "question": "¿Qué elemento suele usar un pintor para mezclar colores?",
+        "correctAnswer": "Paleta",
         "options": [
-            "Mera Mera no Mi",
-            "Gomu Gomu no Mi",
-            "Hito Hito no Mi",
-            "Bara Bara no Mi"
+            "Paleta",
+            "Compás",
+            "Martillo",
+            "Atril"
         ]
     },
     {   
@@ -374,73 +373,73 @@
     {   
         "id": 32,
         "image": "",
-        "question": "En Elden Ring, ¿cómo se llama el caballo espectral que acompaña al jugador?",
-        "correctAnswer": "Torrentera",
+        "question": "¿Qué película tiene como protagonista a un robot llamado WALL-E?",
+        "correctAnswer": "WALL-E",
         "options": [
-            "Agro",
-            "Torrentera",
-            "Rocinante",
-            "Sombra"
+            "WALL-E",
+            "Robots",
+            "Big Hero 6",
+            "Intensamente"
         ]
     },
     {   
         "id": 33,
         "image": "",
-        "question": "En Fortnite Battle Royale, ¿cuál es el objetivo principal de una partida?",
-        "correctAnswer": "Ser el último jugador o equipo en pie",
+        "question": "¿Qué película tiene una canción famosa llamada 'My Heart Will Go On'?",
+        "correctAnswer": "Titanic",
         "options": [
-            "Construir la base más grande",
-            "Ser el último jugador o equipo en pie",
-            "Capturar una bandera",
-            "Derrotar a un jefe final"
+            "Titanic",
+            "El guardaespaldas",
+            "Moulin Rouge",
+            "La La Land"
         ]
     },
     {   
         "id": 34,
         "image": "",
-        "question": "En Counter-Strike, ¿qué arma es conocida por matar de un disparo a la cabeza incluso con casco?",
-        "correctAnswer": "AK-47",
+        "question": "¿De qué país es Taylor Swift?",
+        "correctAnswer": "Estados Unidos",
         "options": [
-            "MP5",
-            "AK-47",
-            "P90",
-            "Glock-18"
+            "Reino Unido",
+            "Estados Unidos",
+            "Canadá",
+            "Australia"
         ]
     },
     {   
         "id": 35,
         "image": "",
-        "question": "En Resident Evil 4, ¿en qué país transcurre gran parte de la historia?",
-        "correctAnswer": "España",
+        "question": "¿Qué canción de Taylor Swift pertenece al álbum 'Midnights'?",
+        "correctAnswer": "Anti-Hero",
         "options": [
-            "Estados Unidos",
-            "España",
-            "Francia",
-            "Italia"
+            "Anti-Hero",
+            "You Belong With Me",
+            "Delicate",
+            "Bad Blood"
         ]
     },
     {   
         "id": 36,
         "image": "",
-        "question": "En Red Dead Redemption 2, ¿qué enfermedad contrae Arthur Morgan?",
-        "correctAnswer": "Tuberculosis",
+        "question": "¿Cuál es el nombre completo de Lali?",
+        "correctAnswer": "Mariana Espósito",
         "options": [
-            "Cólera",
-            "Tuberculosis",
-            "Malaria",
-            "Neumonía"
+            "Mariana Espósito",
+            "Laura Esquivel",
+            "Martina Stoessel",
+            "Natalia Oreiro"
         ]
     },
     {   
         "id": 37,
         "image": "",
-        "question": "En The Legend of Zelda, ¿cuál es la espada legendaria asociada a Link?",
-        "correctAnswer": "Espada Maestra",
+        "question": "¿Qué artista está más asociada al pop estadounidense?",
+        "correctAnswer": "Taylor Swift",
         "options": [
-            "Espada Maestra",
-            "Espada Buster",
-            "Espada del Caos",
-            "Espada de Plata"
+        "Taylor Swift",
+        "Lali",
+        "Mercedes Sosa",
+        "Tini"
         ]
     },
     {   
@@ -458,25 +457,25 @@
     {   
         "id": 39,
         "image": "",
-        "question": "En Pokémon Esmeralda, ¿cuál es el Pokémon legendario principal de la portada?",
-        "correctAnswer": "Rayquaza",
+        "question": "¿Qué artista está más asociada al pop argentino?",
+        "correctAnswer": "Lali",
         "options": [
-            "Kyogre",
-            "Groudon",
-            "Rayquaza",
-            "Lugia"
+        "Taylor Swift",
+        "Dua Lipa",
+        "Lali",
+        "Billie Eilish"
         ]
     },
     {   
         "id": 40,
         "image": "",
-        "question": "En The Witcher 3, ¿cómo se llama el protagonista?",
-        "correctAnswer": "Geralt de Rivia",
+        "question": "¿Cuál fue una de las civilizaciones antiguas que construyó pirámides en Egipto?",
+        "correctAnswer": "Egipcia",
         "options": [
-            "Geralt de Rivia",
-            "Vesemir",
-            "Dandelion",
-            "Emhyr"
+        "Romana",
+        "Egipcia",
+        "Vikinga",
+        "China"
         ]
     },
     {   
@@ -734,25 +733,25 @@
     {   
         "id": 62,
         "image": "",
-        "question": "En Jujutsu Kaisen, ¿qué objeto maldito consume Yuji Itadori?",
-        "correctAnswer": "Un dedo de Sukuna",
+         "question": "¿En qué continente se encuentra Egipto?",
+        "correctAnswer": "África",
         "options": [
-            "Una máscara",
-            "Un dedo de Sukuna",
-            "Una espada maldita",
-            "Un ojo sellado"
+        "Asia",
+        "Europa",
+        "África",
+        "Oceanía"
         ]
     },
     {   
         "id": 63,
         "image": "",
-        "question": "En Hades, ¿quién es el padre de Zagreo?",
-        "correctAnswer": "Hades",
+        "question": "¿Cuál es el río más largo del mundo según la medición más tradicional?",
+        "correctAnswer": "Nilo",
         "options": [
-            "Zeus",
-            "Ares",
-            "Hades",
-            "Poseidón"
+        "Amazonas",
+        "Nilo",
+        "Yangtsé",
+        "Misisipi"
         ]
     },
     {   
@@ -890,13 +889,13 @@
     {   
         "id": 75,
         "image": "",
-        "question": "En Stardew Valley, ¿qué compañía representa la vida corporativa que el protagonista deja atrás?",
-        "correctAnswer": "Joja",
+        "question": "¿Quién es conocido como el Libertador de Argentina, Chile y Perú?",
+        "correctAnswer": "José de San Martín",
         "options": [
-            "Shinra",
-            "Joja",
-            "Umbrella",
-            "Aperture"
+        "Manuel Belgrano",
+        "José de San Martín",
+        "Domingo Faustino Sarmiento",
+        "Juan Manuel de Rosas"
         ]
     },
     {   
@@ -914,13 +913,13 @@
     {   
         "id": 77,
         "image": "",
-        "question": "En The Witcher 3, ¿cómo se llama la hija adoptiva de Geralt?",
-        "correctAnswer": "Ciri",
+        "question": "¿Cuál es el océano más grande del planeta?",
+        "correctAnswer": "Océano Pacífico",
         "options": [
-            "Yennefer",
-            "Triss",
-            "Ciri",
-            "Keira"
+        "Océano Atlántico",
+        "Océano Pacífico",
+        "Océano Índico",
+        "Océano Ártico"
         ]
     },
     {   
@@ -974,25 +973,25 @@
     {   
         "id": 82,
         "image": "",
-        "question": "En League of Legends, ¿qué campeón es conocido por usar una linterna para salvar aliados?",
-        "correctAnswer": "Thresh",
+        "question": "¿Cuál es la capital de Chile?",
+        "correctAnswer": "Santiago",
         "options": [
-            "Pyke",
-            "Thresh",
-            "Blitzcrank",
-            "Nautilus"
+        "Valparaíso",
+        "Santiago",
+        "Concepción",
+        "La Serena"
         ]
     },
     {   
         "id": 83,
         "image": "",
-        "question": "En League of Legends, ¿qué significa hacer 'last hit'?",
-        "correctAnswer": "Dar el último golpe a un súbdito para conseguir oro",
+        "question": "¿Qué guerra mundial comenzó en 1939?",
+        "correctAnswer": "Segunda Guerra Mundial",
         "options": [
-            "Atacar primero al Barón",
-            "Dar el último golpe a un súbdito para conseguir oro",
-            "Usar la definitiva sin acertar",
-            "Morir en una pelea grupal"
+        "Primera Guerra Mundial",
+        "Segunda Guerra Mundial",
+        "Guerra Fría",
+        "Guerra de Vietnam"
         ]
     },
     {   
@@ -1034,13 +1033,13 @@
     {   
         "id": 87,
         "image": "",
-        "question": "En Rocket League, ¿qué se entiende por 'kickoff'?",
-        "correctAnswer": "La jugada inicial después de comenzar o reiniciar el partido",
+        "question": "¿Qué conflicto enfrentó principalmente a Estados Unidos y la Unión Soviética sin una guerra directa entre ambos?",
+        "correctAnswer": "Guerra Fría",
         "options": [
-            "Un penal",
-            "La jugada inicial después de comenzar o reiniciar el partido",
-            "Una celebración",
-            "Un tipo de auto exclusivo"
+        "Guerra Fría",
+        "Primera Guerra Mundial",
+        "Guerra del Golfo",
+        "Guerra de Corea"
         ]
     },
     {   
@@ -1094,13 +1093,13 @@
     {   
         "id": 92,
         "image": "",
-        "question": "¿Qué es una función en programación?",
-        "correctAnswer": "Un bloque de código reutilizable que realiza una tarea",
+        "question": "¿En qué año cayó el Muro de Berlín?",
+        "correctAnswer": "1989",
         "options": [
-            "Un archivo de imagen",
-            "Un bloque de código reutilizable que realiza una tarea",
-            "Un error de memoria",
-            "Un cable de red"
+        "1969",
+        "1975",
+        "1989",
+        "1991"
         ]
     },
     {   
@@ -1118,13 +1117,13 @@
     {   
         "id": 94,
         "image": "",
-        "question": "¿Qué es la recursividad?",
-        "correctAnswer": "Cuando una función se llama a sí misma para resolver un problema",
+        "question": "¿Cuál es el desierto cálido más grande del mundo?",
+        "correctAnswer": "Sahara",
         "options": [
-            "Cuando una variable cambia de color",
-            "Cuando una función se llama a sí misma para resolver un problema",
-            "Cuando se borra una carpeta",
-            "Cuando una página tarda en cargar"
+        "Sahara",
+        "Atacama",
+        "Gobi",
+        "Kalahari"
         ]
     },
     {   
@@ -1142,13 +1141,13 @@
     {   
         "id": 96,
         "image": "",
-        "question": "¿Qué es una API?",
-        "correctAnswer": "Un conjunto de reglas que permite que programas se comuniquen entre sí",
+        "question": "¿En qué año llegó Cristóbal Colón a América?",
+        "correctAnswer": "1492",
         "options": [
-            "Un tipo de monitor",
-            "Un conjunto de reglas que permite que programas se comuniquen entre sí",
-            "Una marca de teclado",
-            "Un archivo de música"
+        "1492",
+        "1516",
+        "1810",
+        "1776"
         ]
     },
     {   
@@ -1197,6 +1196,126 @@
             "Wolframio",
             "Renio",
             "Osmio"
+        ]
+    },
+    {   
+        "id": 101,
+        "image": "",
+        "question": "Si 3x + 5 = 20, ¿cuánto vale x?",
+        "correctAnswer": "5",
+        "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+        ]
+    },
+    {   
+        "id": 102,
+        "image": "",
+        "question": "Si un producto cuesta $800 y tiene un descuento del 25%, ¿cuánto se paga?",
+        "correctAnswer": "$600",
+        "options": [
+        "$500",
+        "$600",
+        "$650",
+        "$700"
+        ]
+    },
+    {   
+        "id": 103,
+        "image": "",
+        "question": "¿Qué número romano representa el 5?",
+        "correctAnswer": "V",
+        "options": [
+        "I",
+        "V",
+        "X",
+        "L"
+        ]
+    },
+    {   
+        "id": 104,
+        "image": "",
+        "question": "¿Qué sistema operativo usan principalmente los iPhone?",
+        "correctAnswer": "iOS",
+        "options": [
+        "Android",
+        "iOS",
+        "Windows Phone",
+        "Linux Mobile"
+        ]
+    },
+    {   
+        "id": 105,
+        "image": "",
+        "question": "¿Qué empresa fabrica los iPhone?",
+        "correctAnswer": "Apple",
+        "options": [
+        "Samsung",
+        "Apple",
+        "Motorola",
+        "Huawei"
+        ]
+    },
+    {   
+        "id": 106,
+        "image": "",
+        "question": "¿Qué tarjeta permite que el celular se conecte a la red de una compañía telefónica?",
+        "correctAnswer": "Tarjeta SIM",
+        "options": [
+        "Tarjeta SD",
+        "Tarjeta SIM",
+        "Tarjeta gráfica",
+        "Tarjeta de sonido"
+        ]
+    },
+    {   
+        "id": 107,
+        "image": "",
+        "question": "¿Qué significa que un celular tenga pantalla OLED?",
+        "correctAnswer": "Que usa una tecnología de pantalla con buenos contrastes y negros profundos",
+        "options": [
+        "Que no necesita batería",
+        "Que usa una tecnología de pantalla con buenos contrastes y negros profundos",
+        "Que solo funciona de noche",
+        "Que tiene internet gratis"
+        ]
+    },
+    {   
+        "id": 108,
+        "image": "",
+        "question": "¿Qué palabra significa 'capacidad de ponerse en el lugar de otra persona y comprender lo que siente'?",
+        "correctAnswer": "Empatía",
+        "options": [
+        "Empatía",
+        "Egoísmo",
+        "Soberbia",
+        "Indiferencia"
+        ]
+    },
+    {   
+        "id": 109,
+        "image": "",
+        "question": "¿Qué palabra significa 'algo que ocurre o se repite cada cierto tiempo'?",
+        "correctAnswer": "Periódico",
+        "options": [
+        "Periódico",
+        "Único",
+        "Inmediato",
+        "Imposible"
+        ]
+    },
+    {   
+        "id": 110,
+        "image": "",
+        "question": "¿Qué palabra significa 'que dura poco tiempo'?",
+        "correctAnswer": "Efímero",
+        "options": [
+        "Eterno",
+        "Efímero",
+        "Gigante",
+        "Antiguo"
         ]
     }
 ]
